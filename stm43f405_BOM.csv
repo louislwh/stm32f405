@@ -1,0 +1,21 @@
+Reference,Value,Footprint,LCSC Part#
+"C1, C5, C11, C12, C13, C14, C16, C19, C20",100nF,Capacitor_SMD:C_0603_1608Metric,C14663
+C2,4.7uF,Capacitor_SMD:C_0603_1608Metric,C389010
+"C3, C4",10uF,Capacitor_SMD:C_0603_1608Metric,C77044
+"C6, C7",10pF,Capacitor_SMD:C_0603_1608Metric,C470847
+"C8, C9",8pF,Capacitor_SMD:C_0603_1608Metric,C327316
+"C10, C22",1uF,Capacitor_SMD:C_0603_1608Metric,C77386
+"C15, C17",2.2uF,Capacitor_SMD:C_0603_1608Metric,C126582
+"C18, C21",10uF,Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A,C110055
+"D1, D2",LED,LED_SMD:LED_0603_1608Metric,C779453
+J1,GT-USB-7010ASV,Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV,C2988369
+"J2, J4",Conn_02x12_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical,C2935922
+J3,Conn_02x02_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical_SMD,C5160776
+"R1, R2",1k,Resistor_SMD:R_0603_1608Metric,C22548
+"R3, R4",5.1k,Resistor_SMD:R_0603_1608Metric,C144594
+R5,10k,Resistor_SMD:R_0603_1608Metric,C98220
+"SW1, SW2",PTS636SK25SMTRLFS,Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS,C2689642
+U1,TLV1117-33,Package_TO_SOT_SMD:SOT-223,C37359
+U2,STM32F405RGTx,Package_QFP:LQFP-64_10x10mm_P0.5mm,C15742
+Y1,24MHz,Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm,C2901725
+Y2,32.768kHz,Crystal:Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm_HandSoldering,C5142652
